@@ -3,6 +3,7 @@
 - run docker-compose up -d
 - go to localhost:8081
 - enjoy.
+
 Notice: if you have a problem with db connect on launch, check if file /application/config.ini is available and readable. You may need to wait a few minutes for all files to be indexed.
 
 ### структура и механика работы
